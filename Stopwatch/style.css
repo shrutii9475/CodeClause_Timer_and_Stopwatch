@@ -1,0 +1,35 @@
+html,
+body{
+    
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(to right, #55caf4, #000caf);
+    overflow: hidden;
+    
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+h1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+}
+#time{
+    font-size: 5em;
+    color: rgb(236, 233, 233);
+}
+button{
+    border: none;
+    padding: 18px 10px;
+    font-size: 1.5em;
+    width: 180px;
+    margin: 10px;
+    border-radius: 15px;
+    color: #090909;
+    font-weight: bold;
+}
